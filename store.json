@@ -13,18 +13,6 @@
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/autokit.apk"
     },
     {
-      "name": "DVR Auto 360",
-      "version": "1.2",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_dvr.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7/DVRauto2.apk"
-    },
-    {
-      "name": "kit Geely intelligent",
-      "version": "1.2.1",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_sc.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8.3.2/s.apk"
-    },
-    {
       "name": "Quran",
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/666ec1834ed6d614ce96687422d0f54a1e6cf6aa/icon_quran.png",
@@ -79,10 +67,52 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.6/mapsme.apk"
     },
     {
+      "name": "Organic Maps",
+      "version": "1.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4e7e0f4ec2286e4503573fc2ec703755c6c01e22/incon_organicmaps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.7/organicmaps.apk"
+    },
+    {
       "name": "Volume booster",
       "version": "3.4.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
+    },
+    {
+      "name": "WhatsApp",
+      "version": "13.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_whatpas.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.2/WhatsApp.apk"
+    },
+    {
+      "name": "Tiktok",
+      "version": "16.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_tiktok.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.6.7/Tiktok.apk"
+    },
+    {
+      "name": "Spotify",
+      "version": "5.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4346782479ee43c64e7104819c7bedeecdf665f9/icon_spotify.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.1.3/Spotify.apk"
+    },
+    {
+      "name": "DMSS",
+      "version": 41.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/01f18dd4b80b5eaff0bdcdeb940c633f95dcd456/icon_dmss.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V18.5.2/dmss.apk"
+    },
+    {
+      "name": "VLC",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_vlc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.4.5/vlc.apk"
+    },
+    {
+      "name": "Mx Player",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_mxplayer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7.4/mxplayer.apk"
     },
         {
       "name": "Yacine TV Black",
@@ -97,12 +127,6 @@
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Yacine_TVGold.apk"
     },
     {
-      "name": "NETFLY",
-      "version": "1.2",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a45438bf6f10381d07d57d979a5283d9e6da15d2/icon_netfly.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.3.4/NETFLY.apk
-    },
-    {
       "name": "Drama Live",
       "version": "13.0.3",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_daramalive.png",
@@ -111,7 +135,7 @@
        {
       "name": "Neo 4k Pro",
       "version": "3.8",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.pngg",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2638/Neo4KPro.apk"
     },
     {
@@ -168,6 +192,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_orca.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.3/Orca.Pro+_3.0.1.0-plus_apkcombo.com.apk"
     },
+        {
+      "name": "Netfly",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a45438bf6f10381d07d57d979a5283d9e6da15d2/icon_netfly.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.3.4/NETFLY.apk"
+    },
     {
       "name": "IPTV Smarters Pro",
       "version": "5.0",
@@ -179,6 +209,6 @@
       "version": "5.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
-    }
+      }
   ]
 } 
