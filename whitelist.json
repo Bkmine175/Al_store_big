@@ -1,0 +1,12 @@
+{
+  "apps_names": [
+    "Yacine TV",
+    "Spotify",
+    "Facebook Lite"
+  ],
+  "packages": [
+    "com.yacine.tv",
+    "com.spotify.music",
+    "com.facebook.lite"
+  ]
+}

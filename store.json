@@ -1,0 +1,184 @@
+{
+  "apps": [
+    {
+      "name": "Android Auto",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Androidauto.apk"
+    },
+      {
+      "name": "AutoKit",
+      "version": 21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_autokit.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/autokit.apk"
+    },
+    {
+      "name": "DVR Auto 360",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_dvr.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7/DVRauto2.apk"
+    },
+    {
+      "name": "kit Geely intelligent",
+      "version": "1.2.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_sc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8.3.2/s.apk"
+    },
+    {
+      "name": "Quran",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/666ec1834ed6d614ce96687422d0f54a1e6cf6aa/icon_quran.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8.2.3/quoran.apk"
+    },
+      {
+      "name": "Algérien Radio",
+      "version": 21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_radioalgerien.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/radio.apk"
+    },
+      {
+      "name": "VRadio",
+      "version": 6.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_vradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/VRadio.apk"
+    },
+    {
+      "name": "Dab Radio",
+      "version": 4.1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8ae8e1dc4eff3d9f11485e407587b332970c05a/icon_dabradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Radio_DAB.apk"
+    },
+    {
+      "name": "YouTube Music",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/63dbe53b356daf0cbf227eef8e4ea77529a383ea/icon_YouTubeMusic_new.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.0.0/youtube.music.apk"
+    },
+    {
+      "name": "YouTube",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
+      "name": "Micro G",
+      "version": "2.2.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/6666a96229a0686a12b58c235fe67c20fbafd35b/icon_MicroG.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.3.4/gms.apk"
+    },
+    {
+      "name": "Maps",
+      "version": "26.1.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_maps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.2.3.4.5/Maps.apk"
+    },
+    {
+      "name": "MAPS ME",
+      "version": "16.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_mapsme.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.6/mapsme.apk"
+    },
+    {
+      "name": "Volume booster",
+      "version": "3.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk
+    },
+        {
+      "name": "Yacine TV Black",
+      "version": "3.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/03e16ce8d50b1fe36f2445ac7db584e170a79144/icon_yacinetvblack.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/main/Yacine_TV_3.1_Black%20(2).apk"
+    },
+    {
+      "name": "YacineTV Gold",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3a4d2164d0af72c1b980500aab4e295f044f089a/icon_yacinetvgold.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Yacine_TVGold.apk"
+    },
+    {
+      "name": "NETFLY",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a45438bf6f10381d07d57d979a5283d9e6da15d2/icon_netfly.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.3.4/NETFLY.apk
+    },
+    {
+      "name": "Drama Live",
+      "version": "13.0.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_daramalive.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V23/drama-live-13-0-3.apk"
+    },
+       {
+      "name": "Neo 4k Pro",
+      "version": "3.8",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.pngg",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2638/Neo4KPro.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V52838/Neo4Kp.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_new4kp.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V538/Neo4Kp.apk"
+    },
+    {
+      "name": "Reezn",
+      "version": "2.0.16",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_reezn.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V3.46/Reezn.apk"
+    },
+    {
+      "name": "KD max",
+      "version": "1.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_kdmax2.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2238/kdmax1.5.apk"
+    },
+    {
+      "name": "KDmax silver",
+      "version": "3.1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/iconkdmaxsilver.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2.5/KDmaxSilver.apk"
+    },
+    {
+      "name": "Lynx",
+      "version": "1.21",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_lynx.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V4.69/lynx.apk"
+    },
+    {
+      "name": "ATLASPRO ONTV",
+      "version": "4.0.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_atlasproon.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V736/atlasproontvv4.apk"
+    },
+    {
+      "name": "ATLAS PRO MAX",
+      "version": "6.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_atalspro.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V5.4.2/ATLAS_PRO_MAX-6.0.apk"
+    },
+    {
+      "name": "Orca Pro+",
+      "version": "3.0.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_orca.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.3/Orca.Pro+_3.0.1.0-plus_apkcombo.com.apk"
+    },
+    {
+      "name": "IPTV Smarters Pro",
+      "version": "5.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/908c42ddbc6cb87ba96f958dc70b2bdd79c17164/icon_iptvsmaterpro.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.7/iptv-smarters-pro-5-0.apk"
+    },
+      {
+      "name": "IRON TV MAX",
+      "version": "5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+    }
+  ]
+} 
