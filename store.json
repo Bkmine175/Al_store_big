@@ -2,9 +2,15 @@
   "apps": [
     {
       "name": "Android Auto",
-      "version": "3.3.0beta",
+      "version": "3.0.4beta",
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V636378283/AAauto.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6362727/aaauto3.4.0-beta1.apk"
+    },
+    {
+      "name": "Headunitroald Ru-version",
+      "version": "7.14",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3bacddf9d5005c318826c7a94b474d51d9f4f609/iconhezd.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V98544578/aaaAuto.apk"
     },
       {
       "name": "AutoKit",
@@ -17,6 +23,24 @@
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/666ec1834ed6d614ce96687422d0f54a1e6cf6aa/icon_quran.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8.2.3/quoran.apk"
+    },
+    {
+      "name": "Quran warch",
+      "version": "2.5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_quranwarch.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V764748/warshquran.apk"
+    },
+    {
+      "name": "Ayah",
+      "version": "2.5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/2e10d15f1572c5cba27ea4bef9a7f1af4679edcb/icon_ayah.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6373883/ayah.apk"
+    },
+    {
+      "name": "Gestionnaire de fichiers",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/05b5adefbe4754a5978637a8392e3cbffa1878df/icon_gestion.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V5367393/v123_sign.apk"
     },
       {
       "name": "Algérien Radio",
@@ -47,6 +71,12 @@
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
+      "name": "SnapTube",
+      "version": "7.66.1.77",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_ssptube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638292929/Snptub.apk"
     },
     {
       "name": "Micro G",
@@ -97,6 +127,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.1.3/Spotify.apk"
     },
     {
+      "name": "Deezer",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_dezeer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7474849/deezer.apk"
+    },
+    {
       "name": "DMSS",
       "version": 41.2.3",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/01f18dd4b80b5eaff0bdcdeb940c633f95dcd456/icon_dmss.png",
@@ -114,6 +150,18 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_mxplayer.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7.4/mxplayer.apk"
     },
+    {
+      "name": "Worms Zone",
+      "version": "6.29.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_wramzine.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7383929/WorsZne.apk"
+    },
+    {
+      "name": "Subway Surf",
+      "version": "3.68.6",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_sabwy.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638292992/subAy.apk"
+    },
         {
       "name": "Yacine TV Black",
       "version": "3.1",
@@ -130,7 +178,7 @@
       "name": "Drama Live",
       "version": "13.0.3",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_daramalive.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V23/drama-live-13-0-3.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638393)/drlav22.apk"
     },
        {
       "name": "Neo 4k Pro",
@@ -150,11 +198,11 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_new4kp.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V538/Neo4Kp.apk"
     },
-    {
+        {
       "name": "Reezn",
-      "version": "2.0.16",
+      "version": "2.0.19",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_reezn.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V3.46/Reezn.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7654578/Reerzrzn109.apk"
     },
     {
       "name": "KD max",
