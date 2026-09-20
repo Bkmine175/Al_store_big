@@ -4,7 +4,7 @@
       "name": "Android Auto",
       "version": "3.0.4beta",
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6362727/aaauto3.4.0-beta1.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737282992/auto340.apk"
     },
     {
       "name": "Headunitroald Ru-version",
@@ -71,6 +71,18 @@
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
+      "name": "YouTube black",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5be25d4a53ccb8a2fc971b674867497846132195/icon_youtubebk.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V876568998/YouTubev1.apk"
+    },
+     {
+      "name": "YouTube Premium",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V739392002/ytube_Premium.apk"
     },
     {
       "name": "SnapTube",
@@ -174,6 +186,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/44b4a43e9e98d8e3ae55b933cce62044b538548d/icon_angry.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V738292992/angry.apk"
     },
+    {
+      "name": "Black Shade",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/iconblackshade.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637282929/Black.Shade.apk"
+    },
         {
       "name": "Yacine TV Black",
       "version": "3.1",
@@ -269,6 +287,18 @@
       "version": "5.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+      },
+    {
+      "name": "Setting",
+      "version": "adnroid9",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting9.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83826262719/settings.apk"
+      },
+      {
+      "name": "SETTING",
+      "version": "1.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727525261919/settingsapp.apk"
       }
   ]
 } 
