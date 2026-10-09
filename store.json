@@ -2,9 +2,9 @@
   "apps": [
     {
       "name": "Android Auto",
-      "version": "3.0.4beta",
+      "version": "3.5.0.beta",
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737282992/auto340.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V627287282829/aaauto111.apk"
     },
     {
       "name": "Headunitroald Ru-version",
@@ -12,11 +12,35 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3bacddf9d5005c318826c7a94b474d51d9f4f609/iconhezd.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V98544578/aaaAuto.apk"
     },
+    {
+      "name": "carplay",
+      "version": "0.2.13",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_dplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727289292/carplay.apk"
+    },
+    {
+      "name": "Diplay",
+      "version": "0.2.14",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_dplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7262572919/lay-0.2.15.apk"
+    },
+    {
+      "name": "DiAuto",
+      "version": "0.3.11",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_aplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6291927271910/DiyeueuAut.apk"
+    },
       {
       "name": "AutoKit",
-      "version": 21.0",
+      "version": "21.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_autokit.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/autokit.apk"
+    },
+    {
+      "name": "Carbitlink",
+      "version": "7.3.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/fb72e010bf42bc34fadf501aa3aaa83a20c47c62/icon_carbtitlink.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737838282/Jar.apk"
     },
     {
       "name": "Quran",
@@ -230,9 +254,9 @@
     },
         {
       "name": "Reezn",
-      "version": "2.0.19",
+      "version": "2.0.20",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_reezn.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7654578/Reerzrzn109.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V213131313/rezzn2.02.apk"
     },
     {
       "name": "KD max",
