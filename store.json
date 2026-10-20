@@ -145,6 +145,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
     },
     {
+      "name": "Equalize",
+      "version": "6.1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/151f3be542c33392fff2b19d89ce44cf0158fa60/icon_equalizer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V626282819/eqalizer.apk"
+    },
+    {
       "name": "WhatsApp",
       "version": "13.2.3",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_whatpas.png",
