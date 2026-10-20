@@ -42,6 +42,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/fb72e010bf42bc34fadf501aa3aaa83a20c47c62/icon_carbtitlink.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737838282/Jar.apk"
     },
+     {
+      "name": "power Off",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/368836c9c47d2442e6faf1f6977d6713bdbcc6ce/icon_poweron.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6272892919/poweron.apk"
+    },
     {
       "name": "Quran",
       "version": "1.2",
